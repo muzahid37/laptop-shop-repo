@@ -9,7 +9,6 @@ const Dashboard = () => {
         <div>
            
             <BarChart></BarChart>
-            <AreaChart></AreaChart>
         </div>
     );
 };
