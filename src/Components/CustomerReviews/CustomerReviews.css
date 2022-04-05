@@ -1,0 +1,20 @@
+.CustomerReviews-container{
+    width: 80%;
+    margin-left: 45px;
+
+}
+.CustomerReviews-header{
+    font-weight: bold;
+}
+.CustomerReviews-button {
+    border: none;
+    background-color: blueviolet;
+     width: 200px;
+    padding: 10px;
+    border-radius:5px ;
+}
+.CustomerReviews-button a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}

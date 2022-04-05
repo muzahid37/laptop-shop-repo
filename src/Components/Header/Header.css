@@ -1,0 +1,11 @@
+nav{
+    margin-top: 20;
+    background: rgb(153, 144, 119);
+    line-height: 45px;
+}
+nav a{
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+}

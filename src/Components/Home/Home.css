@@ -1,0 +1,19 @@
+.banner{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    
+}
+.banner_decription{
+    padding: 25px;
+}
+.banner_decription{
+    width: 50%;
+}
+.banner-Image{
+    width: 50%;
+}
+.banner-Image img{
+    width: 100%;
+}
