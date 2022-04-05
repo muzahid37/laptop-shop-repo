@@ -8,7 +8,6 @@ const Reviews = () => {
     const [reviews,setReviews]=useReviews();
     return (
         <div className='review_container'>
-            <h2>this is review page</h2>
           {
               reviews.map(review=><SeeReview
                 key={review.id}

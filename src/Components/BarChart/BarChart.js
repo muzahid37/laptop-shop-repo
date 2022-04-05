@@ -46,7 +46,8 @@ const BarChart = () => {
         <div>
             
             <div>
-            { <LineChart width={400} height={500} data={data}>
+                <h2>Line Chart</h2>
+            { <LineChart width={800} height={500} data={data}>
                 <Line dataKey={'sell'} stroke="#8884d8"></Line>
                 <Line dataKey={'revenue'} stroke='#C3602C'></Line>
                 <Line dataKey={'investment'} stroke='#1E1E1E'></Line>
@@ -54,6 +55,7 @@ const BarChart = () => {
                 <YAxis></YAxis>
             </LineChart> 
             }
+
             </div>
           
         
